@@ -1,6 +1,6 @@
 {
   "name": "awesome-digital-preservation",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Carefully curated list of awesome digital preservation resources.",
   "main": "src/index.js",
   "scripts": {
